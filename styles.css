@@ -14,3 +14,16 @@ h1 {
     margin: auto 0;
     text-align: center;
 }
+
+.telegram-btn {
+    background-color: #0088cc;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.telegram-btn:hover {
+    background-color: #007bb5;
+}
